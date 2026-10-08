@@ -77,12 +77,12 @@ I specialize in **backend architecture, APIs, and distributed systems**, while a
 
 ### 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=anaselmalky\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=NEMESIS181\&color=blue)
 ![Commits](https://img.shields.io/badge/Commits-1000+-blue)
 ![Repositories](https://img.shields.io/badge/Repos-20+-green)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaselmalky" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NEMESIS181" />
 </p>
 
 ---
