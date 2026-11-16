@@ -103,7 +103,7 @@ Right now I'm building an **advanced fleet management platform** at [Bawq](https
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NEMESIS181&theme=tokyonight&hide_border=true&background=05140C&ring=22C55E&fire=4ADE80&currStreakLabel=4ADE80" alt="GitHub streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=NEMESIS181&hide_border=true&background=05140C&stroke=166534&ring=22C55E&fire=4ADE80&currStreakNum=4ADE80&sideNums=4ADE80&currStreakLabel=4ADE80&sideLabels=86EFAC&dates=6EE7B7" alt="GitHub streak" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEMESIS181&bg_color=05140C&color=94A3B8&line=22C55E&point=4ADE80&area=true&area_color=166534&hide_border=true&radius=8" alt="Contribution graph" width="49%" />
 </p>
 
