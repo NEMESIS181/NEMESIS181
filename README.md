@@ -1,102 +1,120 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/368f77c2-e79a-4142-ad23-d451f4eb727f/ddb882l-7fc1f739-5d35-4c3e-8420-4c393930055a.gif)
-
-<h1 align="center">Hi 👋, I'm Anas Abdel Haq</h1>
-<h3 align="center">Backend-Focused Fullstack Engineer</h3>
-
-<img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/garou-498-x-212-gif-30wwsculogjsoe6h.gif">
-
----
-
-### 🚀 About Me
-
-I’m a backend-focused fullstack engineer who builds **scalable systems and modern user-facing applications**.
-I specialize in **backend architecture, APIs, and distributed systems**, while also developing **responsive frontends and cross-platform apps**.
-
-* 🔭 Currently working on **Advanced Fleet Management System**
-* ⚙️ Strong in **Node.js, Microservices, APIs**
-* 🎨 Frontend with **React, React Native, Flutter**
-* 🧠 Interested in **System Design & Distributed Systems**
-* 💬 Ask me about **MERN Stack, Kafka, RabbitMQ**
-* 📫 Reach me: **[anas.elmalky1@gmail.com](mailto:anas.elmalky1@gmail.com)**
-* ⚡ Fun fact: **Anime fan**
-
----
-
-### 💻 Tech Stack
-
-#### 🧠 Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-
-#### 🎨 Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-#### 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=Microsoft-SQL-Server\&logoColor=white)
-
-#### ⚙️ Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
----
-
-### 🛠 Tools & Technologies
-
-- Node.js, Express.js, REST APIs  
-- React, React Native, Flutter  
-- MongoDB, MySQL, PostgreSQL  
-- Mongoose, Sequelize (ORM/ODM)  
-- Kafka, RabbitMQ (Event-driven systems)  
-- Docker, AWS, Linux  
-- Git, Postman  
-
----
-
-### 🚀 Projects
-
-| Project                 | Description                             | Tech                  |
-| ----------------------- | --------------------------------------- | --------------------- |
-| Fleet Management System | Real-time tracking, alerts & dashboards | Node.js, Kafka, React |
-| Mobile Tracking App     | Cross-platform tracking application     | Flutter               |
-| Eary System             | Full-stack web system                   | Node.js, Express, SQL |
-| Task Management System  | OOP-based system                        | C++, Data Structures  |
-
----
-
-### 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=NEMESIS181\&color=blue)
-![Commits](https://img.shields.io/badge/Commits-1000+-blue)
-![Repositories](https://img.shields.io/badge/Repos-20+-green)
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NEMESIS181" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05140C,45:166534,100:22C55E&height=220&section=header&text=Anas%20Abdel%20Haq&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend-Focused%20Fullstack%20Engineer&descSize=18&descAlignY=57&animation=twinkling" alt="Anas Abdel Haq" width="100%" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/NEMESIS181">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Node.js+%C2%B7+Microservices+%C2%B7+REST+APIs;Event-driven+systems+with+Kafka+%26+RabbitMQ;Real-time+fleet+tracking%2C+end+to+end;Flutter+apps+for+Android%2C+iOS+%26+Web;From+system+design+to+production" alt="What I build" />
+  </a>
+</p>
 
-### ⚡ Code Highlights
+<p align="center">
+  <a href="https://www.linkedin.com/in/anas-abdel-haq-85124322b"><img src="https://img.shields.io/badge/LinkedIn-Anas%20Abdel%20Haq-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anas.elmalky1@gmail.com"><img src="https://img.shields.io/badge/Email-anas.elmalky1-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Cairo-Egypt-16A34A?style=flat-square&logo=googlemaps&logoColor=white" alt="Cairo, Egypt" />
+  <img src="https://komarev.com/ghpvc/?username=NEMESIS181&label=views&color=166534&style=flat-square" alt="Profile views" />
+</p>
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-5000+-blue)
-![Pull Requests](https://img.shields.io/badge/PRs-20+-green)
+## 👨‍💻 About me
 
----
+I'm a **backend-focused fullstack engineer** from Cairo. I design the services, APIs and data flows behind a product, and then build the web and mobile apps that use them.
 
-### 📫 Connect With Me
+Right now I'm building an **advanced fleet management platform** at [Bawq](https://www.bawq.com): live vehicle tracking, alerts, dispatch and dashboards for fleet owners and the providers who resell it.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anas-abdel-haq-85124322b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anas.elmalky1@gmail.com)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>⚙️ On the backend</b>
+      <ul>
+        <li>Node.js services and REST APIs that scale</li>
+        <li>Event-driven systems with Kafka and RabbitMQ</li>
+        <li>MongoDB, PostgreSQL and MySQL, with Redis for caching</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>🎨 On the frontend</b>
+      <ul>
+        <li>Flutter apps for Android, iOS and the Web from one codebase</li>
+        <li>React and React Native interfaces</li>
+        <li>Real-time UI: live maps, sockets and notifications</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+<sub>🧠 Into system design &amp; distributed systems · 💬 Ask me about MERN, Kafka or RabbitMQ · ⚡ Anime fan</sub>
+
+## 🧰 Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,kafka,rabbitmq,redis,mongodb,postgres,mysql,docker,aws,linux,react,flutter,dart,js,ts,git,postman&perline=9&theme=dark" alt="Toolbox" />
+</p>
+
+<sub>REST · JWT · Microservices · Event-driven architecture · Mongoose · Sequelize · Socket.IO · React Native · Clean Architecture</sub>
+
+## 💼 What I'm building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ Fleet management platform</h3>
+      <sub>Private · Web, Android &amp; iOS</sub>
+      <p>A multi-tenant telematics platform that tracks vehicles live.</p>
+      <ul>
+        <li><b>Real-time tracking</b>, playback and geofences</li>
+        <li><b>Alerts &amp; notifications</b>, grouped by device</li>
+        <li><b>Provider and client portals</b> with dashboards</li>
+        <li><b>Dispatch app</b> for drivers and orders</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ BahrainSpeedMap</h3>
+      <sub><a href="https://github.com/NEMESIS181/SpeedTrackerBH">Open source</a> · Mobile + API</sub>
+      <p>Collects and maps road speed limits across Bahrain.</p>
+      <ul>
+        <li><b>Mobile app</b> to record speed limits on the road</li>
+        <li><b>Node.js API</b> that stores and serves them</li>
+        <li><b>MongoDB</b> with geospatial data</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+> [!NOTE]
+> Most of my day-to-day code lives in the private **[Bawq-Neo](https://github.com/Bawq-Neo)** organization, so this profile only shows part of it.
+
+## 📂 More projects
+
+| Project | What it is | Tech |
+| --- | --- | --- |
+| [📝 Blog App](https://github.com/NEMESIS181/Blog-App) | A full-stack blogging app | JavaScript, Node.js |
+| [🚀 Node Starter](https://github.com/NEMESIS181/node-starter) | A starting point for Node.js services | Node.js, Express |
+| [🌾 Node Farm](https://github.com/NEMESIS181/Node-Farm) | A simple API built with plain Node.js | Node.js |
+| [🧊 MoltenIce](https://github.com/NEMESIS181/MoltenIce) | Teaches teenagers to make 2D games in Unity | Unity, C# |
+| 🎧 Eary System | A full-stack web system | Node.js, Express, SQL |
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NEMESIS181&theme=tokyonight&hide_border=true&background=05140C&ring=22C55E&fire=4ADE80&currStreakLabel=4ADE80" alt="GitHub streak" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEMESIS181&bg_color=05140C&color=94A3B8&line=22C55E&point=4ADE80&area=true&area_color=166534&hide_border=true&radius=8" alt="Contribution graph" width="49%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NEMESIS181/NEMESIS181/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NEMESIS181/NEMESIS181/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/NEMESIS181/NEMESIS181/output/snake.svg" alt="Snake eating my contributions" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,55:166534,100:05140C&height=120&section=footer" alt="" width="100%" />
+</p>
